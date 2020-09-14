@@ -13,6 +13,12 @@
 Overview
 ###########
 
+.. toctree::
+   :maxdepth: 5
+   :caption: 日本語版
+   :hidden:
+
+   Master <https://xilinx.github.io/Vitis-Tutorials/master/docs-jp/README.html>
 
 .. _Getting Started:
 
